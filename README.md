@@ -17,13 +17,13 @@ CSS-For styling
 Installation
 
 fork the project from github remote repo:
-
-https://github.com/timmyworldboss/my-portfolio.git
+https://github.com/tynnienjambi/My-portfolio.git
 
 clone it to local repo
 Challenges
 
 some graphical difficulties were encountered and at the time the website is not responsive.
+
 license
 
 MIT copyright Tinisha
